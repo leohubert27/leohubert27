@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, my name is Leonardo Hubert👋
+
+- I'm currently studying JavaScript, Python and hopefully I'll be adding much more into my repertoir very soon!
+- Located in Indaiatuba - São Paulo - Brasil, I'm attending the new course in Fatec Indaiatuba, called DSM (Desenvolvimento de Software Multiplataforma).
+- This profile will track my study progress, so in the future I can show my development as a software engineer!
 
 <!--
 **leohubert27/leohubert27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
